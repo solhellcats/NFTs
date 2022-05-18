@@ -1,0 +1,85 @@
+{
+  "name": "HELLCATS #120",
+  "symbol": "HELLCATS",
+  "description": "999 HELLCATS RAISING HELL ON SOLANA. POWERED BY THE $HELL TOKEN",
+  "seller_fee_basis_points": 999,
+  "image": "image.png",
+  "external_url": "https://solhellcats.com",
+  "collection":[{
+    "name":"HELLCATS","family":""
+  }],
+  "edition": 120,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hot Pink"
+    },
+    {
+      "trait_type": "BG Overlay",
+      "value": "Purple Strippers"
+    },
+    {
+      "trait_type": "Linework",
+      "value": "Base Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Ice White Fur"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Flesh"
+    },
+    {
+      "trait_type": "Gums",
+      "value": "Hot Pink"
+    },
+    {
+      "trait_type": "Teeth",
+      "value": "White"
+    },
+    {
+      "trait_type": "Tongue",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Devil Tail",
+      "value": "Salmon"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "None"
+    },
+    {
+      "trait_type": "Facial Accessories",
+      "value": "Brow Tat Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Deep Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vomit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ECurpxLuMYXS4FmPHXwsM8XQgdzMJ6CKXiZ3xNggvwa",
+        "share": 100
+      }
+    ]
+  }
+}
